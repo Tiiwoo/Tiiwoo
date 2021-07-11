@@ -1,6 +1,6 @@
 ## 💡 About
 
-Hi! Here is Tiiwoo, you can also call my SkyTw.
+Hi! Here is Tiiwoo.
 
 ## 📊 Stats
 
