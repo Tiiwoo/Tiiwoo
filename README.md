@@ -11,9 +11,9 @@
   <a style="text-decoration:none" href="https://github.com/Tiiwoo">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a style="text-decoration:none" href="https://twitter.com/tiiwootao">
+<!--   <a style="text-decoration:none" href="https://twitter.com/tiiwootao">
     <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
